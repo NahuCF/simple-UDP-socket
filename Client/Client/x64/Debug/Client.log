@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\El puto amo\Desktop\Things\Projects\Server\Client\Client\Main.cpp(58,16): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\El puto amo\Desktop\Things\Projects\Server\Client\Client\Main.cpp(79,104): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Client.vcxproj -> C:\Users\El puto amo\Desktop\Things\Projects\Server\Server\x64\Debug\Client.exe
